@@ -1,0 +1,1 @@
+type bit = Zero | One
