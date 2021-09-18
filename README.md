@@ -18,4 +18,4 @@ This Coq library was developed during the final year internship of my Master's d
 - `final-year-internship\paper.pdf` is the research paper of which I certified in Coq some theorems with the help of my supervisors;
 - `final-year-internship\thesis.pdf` is my Master's thesis (in French);
 - `final-year-internship\defense.pdf` is the slideshow I used during my defense (in French);
-- `final-year-internship\scr` contains source files: run the `Makefile` to create a binary version of the library, and open it to know the dependencies between the Coq theories contained therein.
+- `final-year-internship\scr` contains source files: they are very well documented; run the `Makefile` to create a binary version of the library, and open it to know the dependencies between the Coq theories contained therein.
