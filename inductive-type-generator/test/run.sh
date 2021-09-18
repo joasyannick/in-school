@@ -1,4 +1,4 @@
-SOFTWARE=../scr/comp
+SOFTWARE=../src/comp
 #Teste un type simple
 $SOFTWARE < bit.ml4 > bit.v ; coqc bit.v
 #Teste la prise en compte des arguments d'un constructeur
